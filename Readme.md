@@ -14,7 +14,7 @@ I named it RowLow52 because it is a row staggered keyboard for low sensitivity.
 <br>
 
 ## Build Guide  
-V2   https://note.com/sam1dare/n/nca3b63fb6e3b
+V2   https://note.com/sam1dare/n/nca3b63fb6e3b <br>
 V1.1 https://note.com/sam1dare/n/nf6a3704ffbe0  
 (Japanese text only.)  
 
